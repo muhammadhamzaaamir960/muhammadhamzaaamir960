@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hamza Aamir</h1>
+![image](https://github.com/muhammadhamzaaamir960/muhammadhamzaaamir960/assets/137796896/099ed128-d092-4d3c-aa00-00d5385854d8)<h1 align="center">Hi 👋, I'm Muhammad Hamza Aamir</h1>
 <h3 align="center">A passionate Modern Frontend Developer</h3>
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40gavizoid16%2Fthings-to-do-after-a-coding-bootcamp-9523cd61be91&psig=AOvVaw1puDOy67wBaKsA7QAl8M13&ust=1710600490839000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDnwMfB9oQDFQAAAAAdAAAAABAG" align="right" width="400" alt"coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadhamzaaamir960&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadhamzaaamir960" /> </p>
 

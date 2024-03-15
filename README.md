@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadhamzaaamir960&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadhamzaaamir960" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadhamzaaamir960" alt="muhammadhamzaaamir960" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/muhammadhamzaaamir960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhammadhamzaaamir960" height="30" width="40" /></a>
@@ -20,5 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadhamzaaamir960&show_icons=true&locale=en" alt="muhammadhamzaaamir960" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhamzaaamir960&" alt="muhammadhamzaaamir960" /></p>
-
-

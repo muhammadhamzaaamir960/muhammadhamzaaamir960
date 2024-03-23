@@ -1,4 +1,4 @@
-![image](https://github.com/muhammadhamzaaamir960/muhammadhamzaaamir960/assets/137796896/099ed128-d092-4d3c-aa00-00d5385854d8)<h1 align="center">Hi 👋, I'm Muhammad Hamza Aamir</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Hamza Aamir</h1>
 <h3 align="center">A passionate Modern Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadhamzaaamir960&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadhamzaaamir960" /> </p>
